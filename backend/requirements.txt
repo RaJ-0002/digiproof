@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+asyncpg
+alembic
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+scikit-learn
